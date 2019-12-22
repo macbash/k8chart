@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  webserver:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2019-12-22T18:29:17.167325809Z
+    description: A Helm chart for Kubernetes
+    digest: 51046359914d571ee904b3622512bf805538297375c3a5b32ed7881df6c464ee
+    name: webserver
+    urls:
+    - https://raw.githubusercontent.com/macbash/k8chart/master/webserver-1.0.0.tgz
+    version: 1.0.0
+generated: 2019-12-22T18:29:17.166712161Z
